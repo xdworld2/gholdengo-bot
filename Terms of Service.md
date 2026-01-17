@@ -1,5 +1,4 @@
-Gholdengo Bot Terms of Service
-
+# Gholdengo Bot Terms of Service
 These Terms apply to all users of the Gholdengo Bot
 By adding Gholdengo Bot to your server, you agree to the following Terms as well as any future changes to these Terms.
 
