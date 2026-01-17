@@ -2,7 +2,7 @@
 The Wiki Bot for the Official PokeMeow Guide! PokeMeow Help links, GIF commands for regular/shiny Pokemon, Miscellaneous commands, and more to come in the future! (maybe, hopefully)
 
 [Invite the Gholdengo Bot to your Discord server!](https://discord.com/oauth2/authorize?client_id=670378826257137688&scope=bot%20applications.commands&permissions=537259072)
-- By inviting the bot to your server, you agree to our [Terms of Service](terms%20of%20service) and [Privacy Policy](privacy%20policy). Please note that bot hosting is ran through BDFD (Bot Designer For Discord). Uptime has to be added manually by the bot owner via watching ads, so if the bot is down it's probably because the hosting time ran out and not any critical errors.
+- By inviting the bot to your server, you agree to our [Terms of Service](terms%20of%20service.md) and [Privacy Policy](privacy%20policy.md). Please note that bot hosting is ran through BDFD (Bot Designer For Discord). Uptime has to be added manually by the bot owner via watching ads, so if the bot is down it's probably because the hosting time ran out and not any critical errors.
 
 [Join the PokeMeow Guide Server!](https://discord.gg/fVUkbPQ36Z) (Hub for announcements and updates related to both the PokeMeow Guide and Gholdengo Bot)
 - This is NOT AN APPEALS SERVER for the PokéMeow Official Server, nor is affiliated with the PokéMeow Official Server. Anyone who tries to appeal a PokéMeow Official Server ban and/or a PokéMeow ingame ban will also be banned from the PokéMeow Guide Server.
