@@ -7,4 +7,4 @@ By adding Gholdengo Bot to your server, you agree to the following Terms as well
 
 2. Logs, Error Messages, and Error Logs are not currently set up (BDScript Errors are suppressed for regular users). If a command does not work as intended please notify the bot owner
 
-3. Any future changes to these terms may be accompanied by a message in the #gholdengo-bot-info channel in the PokeMeow Guide Server (https://discord.gg/fVUkbPQ36Z). If the accompanying message is not present, you may need to check back to this repository for any updates.
+3. Any future changes to these terms may be accompanied by a message in the #gholdengo-bot-info channel in the [PokeMeow Guide Server](https://discord.gg/fVUkbPQ36Z). If the accompanying message is not present, you may need to check back to this repository for any updates.
