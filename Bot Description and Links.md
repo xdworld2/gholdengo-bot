@@ -11,6 +11,6 @@ The Wiki Bot for the Official PokeMeow Guide! PokeMeow Help links, GIF commands 
 - Short link to the Google Sheets guide. Viewers of the spreadsheet are anonymous to editors unless they create or reopen a comment thread.
 
 More Links/What even is PokeMeow??
-[PokeMeow Website](https://pokemeow.com/)
-[PokeMeow Official Server](https://discord.gg/pokemeow)
-(PokeMeow Bot created by gopi on Discord)
+- [PokeMeow Website](https://pokemeow.com/)
+- [PokeMeow Official Server](https://discord.gg/pokemeow)
+ - (PokeMeow Bot created by gopi on Discord)
