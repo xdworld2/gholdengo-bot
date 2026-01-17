@@ -1,4 +1,4 @@
-Privacy Policy
+# Privacy Policy
 Thank you for reading this Privacy Policy. As the bot owner, my top priority is the safety and privacy of all users. Please read below to learn how your information is handled.
 
 1. Collected Data
